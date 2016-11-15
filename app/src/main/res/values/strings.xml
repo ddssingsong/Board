@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Board</string>
+
+
+    <string name="menu1">画笔宽度</string>
+    <string name="menu1_sub1">1</string>
+    <string name="menu1_sub2">10</string>
+    <string name="menu1_sub3">30</string>
+    <string name="menu1_sub4">50</string>
+
+
+    <string name="menu2">画笔</string>
+    <string name="menu3">橡皮擦</string>
+    <string name="menu4">保存</string>
+    <string name="menu5">退出</string>
+
+    <string name="menu_auther">作者：dds</string>
+
+
+
+
+</resources>
